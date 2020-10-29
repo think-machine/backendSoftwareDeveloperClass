@@ -36,5 +36,4 @@ public class App {
 		System.out.println("I've gained an average " + friendsPerYear + " friends a year");
 		System.out.println("My full name is \"" + fullName + "\"");
 	}
-
 }
